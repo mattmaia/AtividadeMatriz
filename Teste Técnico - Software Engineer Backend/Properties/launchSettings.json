@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Teste Técnico - Software Engineer Backend": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
